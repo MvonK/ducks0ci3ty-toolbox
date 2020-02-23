@@ -1,9 +1,12 @@
 [submodule "windows/evil-winrm"]
 	path = windows/evil-winrm
 	url = https://github.com/Hackplayers/evil-winrm
-[submodule "both/ffuf"]
-	path = both/ffuf
-	url = https://github.com/ffuf/ffuf
 [submodule "linux/LinEnum"]
 	path = linux/LinEnum
 	url = https://github.com/rebootuser/LinEnum
+[submodule "web/ffuf"]
+	path = web/ffuf
+	url = https://github.com/ffuf/ffuf
+[submodule "web/wwwolf-php-webshell"]
+	path = web/wwwolf-php-webshell
+	url = https://github.com/WhiteWinterWolf/wwwolf-php-webshell
